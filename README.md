@@ -51,7 +51,7 @@ A virtual environment (venv) in Python is an isolated workspace that allows you 
 ### Clone the Repository and venv setup
 
 ```powershell
-git clone https://github.com/Foncie003/FakeNewsShield.git
+git clone https://github.com/feyap88/FakeNewsShield.git
 cd FakeNewsShield
 
 # Create virtual environment
